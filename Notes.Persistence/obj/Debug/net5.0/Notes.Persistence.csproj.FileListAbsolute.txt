@@ -1,0 +1,17 @@
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.deps.json
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.dll
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.pdb
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Application.dll
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.dll
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Application.pdb
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.pdb
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.AssemblyReference.cache
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfoInputs.cache
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfo.cs
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CopyComplete
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.dll
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\refint\Notes.Persistence.dll
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.pdb
+E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\ref\Notes.Persistence.dll
