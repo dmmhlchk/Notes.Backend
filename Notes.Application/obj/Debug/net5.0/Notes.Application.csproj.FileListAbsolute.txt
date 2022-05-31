@@ -13,3 +13,18 @@ E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\refint\Notes.Application.dll
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.pdb
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\ref\Notes.Application.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\bin\Debug\net5.0\Notes.Application.deps.json
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\bin\Debug\net5.0\Notes.Application.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\bin\Debug\net5.0\Notes.Application.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\bin\Debug\net5.0\Notes.Domain.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\bin\Debug\net5.0\Notes.Domain.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.AssemblyReference.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfoInputs.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfo.cs
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CoreCompileInputs.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CopyComplete
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\refint\Notes.Application.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\Notes.Application.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Application\obj\Debug\net5.0\ref\Notes.Application.dll

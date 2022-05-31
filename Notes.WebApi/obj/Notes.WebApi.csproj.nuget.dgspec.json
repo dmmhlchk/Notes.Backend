@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
+    "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
+    "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+        "projectUniqueName": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
         "projectName": "Notes.Application",
-        "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\obj\\",
+        "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+        "packagesPath": "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dmmhlchk_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
-                "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
+              "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+                "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
               }
             }
           }
@@ -76,21 +76,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+    "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
         "projectName": "Notes.Domain",
-        "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\obj\\",
+        "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "packagesPath": "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dmmhlchk_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {
+    "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+        "projectUniqueName": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
         "projectName": "Notes.Persistence",
-        "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\obj\\",
+        "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+        "packagesPath": "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dmmhlchk_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,8 +158,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
-                "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
+              "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
+                "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
               }
             }
           }
@@ -198,21 +198,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
+    "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectUniqueName": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "projectName": "Notes.WebApi",
-        "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\obj\\",
+        "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "packagesPath": "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dmmhlchk_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -226,11 +226,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
-                "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
+              "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
+                "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
               },
-              "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {
-                "projectPath": "E:\\Visual Studio\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj"
+              "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj": {
+                "projectPath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj"
               }
             }
           }
@@ -268,7 +268,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

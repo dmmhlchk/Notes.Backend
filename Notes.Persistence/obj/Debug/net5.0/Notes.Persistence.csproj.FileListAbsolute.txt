@@ -15,3 +15,20 @@ E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\refint\Notes.Persistence.dll
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.pdb
 E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\ref\Notes.Persistence.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.deps.json
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Application.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Application.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.AssemblyReference.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfoInputs.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfo.cs
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CopyComplete
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\refint\Notes.Persistence.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.pdb
+E:\Projects\WebAPI\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\ref\Notes.Persistence.dll
