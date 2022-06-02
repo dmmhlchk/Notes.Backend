@@ -7,6 +7,7 @@ using Notes.Application.Notes.Commands.UpdateNote;
 using Notes.Application.Notes.Commands.CreateNote;
 using Notes.Application.Notes.Commands.DeleteNote;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using System;
 
 namespace Notes.WebApi.Controllers
@@ -18,7 +19,9 @@ namespace Notes.WebApi.Controllers
 
         public NoteController(IMapper maper) => _mapper = maper;
 
+        // контроллер на получение списка всех записок
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<NoteListVm>> GetAll()
         {
             var query = new GetNoteListQuery()
@@ -26,11 +29,15 @@ namespace Notes.WebApi.Controllers
                 UserId = UserId
             };
 
+            //отправили запрос
             var vm = await Mediator.Send(query);
+            // получили ответ
             return Ok(vm);
         }
 
+        // контроллер на получение конкретной записки
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<NoteDetailsVm>> Get(Guid id)
         {
             var query = new GetNoteDetailsQuery
@@ -39,31 +46,47 @@ namespace Notes.WebApi.Controllers
                 Id = id
             };
 
+            // отправили запрос 
             var vm = await Mediator.Send(query);
+            // получили ответ
             return Ok(vm);
         }
 
+        // контроллер для создание новой заметки
+        // аттрибут [FromBody] указывает на то что парамметры метода
+        // контроллера должнен быть извлечён из данных тела http запроса
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Guid>> Create([FromBody] CreateNoteDto createNoteDto)
         {
             var command = _mapper.Map<CreateNoteCommand>(createNoteDto);
             command.UserId = UserId;
-            var noteId = await Mediator.Send(command);
 
+            // отправили запрос
+            var noteId = await Mediator.Send(command);
+            // получили ответ
             return Ok(noteId);
         }
 
+        // контроллер на обновление конкретной заметки
+        // аттрибут [FromBody] указывает на то что парамметры метода
+        // контроллера должнен быть извлечён из данных тела http запроса
         [HttpPut]
+        [Authorize]
         public async Task<IActionResult> Update([FromBody] UpdateNoteDto updateNoteDto)
         {
             var command = _mapper.Map<UpdateNoteCommand>(updateNoteDto);
             command.UserId = UserId;
-            await Mediator.Send(command);
 
+            // отправили запрос
+            await Mediator.Send(command);
+            // получили ответ(в данном случае, мы ничего не получили)
             return NoContent();
         }
 
+        // контроллер на удаление конкретной заметки
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> Delete(Guid id)
         {
             var command = new DeleteNoteCommand
@@ -71,8 +94,10 @@ namespace Notes.WebApi.Controllers
                 Id = id,
                 UserId = UserId
             };
-            await Mediator.Send(command);
 
+            // отправили запрос
+            await Mediator.Send(command);
+            // получили ответ(в данном случае, мы ничего не получили)
             return NoContent();
         }
 

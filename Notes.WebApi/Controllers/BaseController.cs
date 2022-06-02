@@ -11,9 +11,19 @@ namespace Notes.WebApi.Controllers
     public abstract class BaseController : ControllerBase
     {
         private IMediator _mediator;
+        // Оператор объединения с NULL ?? возвращает значение своего операнда слева,
+        // если его значение не равно null.
+        // В противном случае он вычисляет операнд справа и возвращает его результат.
+        // Оператор ?? не выполняет оценку своего операнда справа,
+        // если его операнд слева имеет значение, отличное от NULL.
         protected IMediator Mediator =>
             _mediator ??= HttpContext.RequestServices.GetService<IMediator>();
 
+
+        // в переменную UserId записывается значение, которое передаётся через
+        // тернарный оператор(условие if) которое означаает, что
+        // проверяет на наличие пользователя, если такого пользователя нет, то 
+        // выполняется 28 строчка кода, иначе 29 (находится пользователь)
         internal Guid UserId => !User.Identity.IsAuthenticated
             ? Guid.Empty
             : Guid.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);

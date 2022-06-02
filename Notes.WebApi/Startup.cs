@@ -1,15 +1,15 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
-using System;
 using System.Reflection;
 using Notes.Application.Interfaces;
 using Notes.Application.Common.Mappings;
 using Notes.Application;
 using Notes.Persistence;
+using Notes.WebApi.Middleware;
 
 namespace Notes.WebApi
 {
@@ -43,6 +43,20 @@ namespace Notes.WebApi
                });
             });
 
+            services.AddAuthentication(config =>
+            {
+                config.DefaultAuthenticateScheme = 
+                    JwtBearerDefaults.AuthenticationScheme;
+                config.DefaultChallengeScheme =
+                    JwtBearerDefaults.AuthenticationScheme;
+
+            }).AddJwtBearer("Bearer", options =>
+            {
+                options.Authority = "https://localhost:44350/";
+                options.Audience = "NotesWebAPI";
+                options.RequireHttpsMetadata = false;
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,10 +67,12 @@ namespace Notes.WebApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCustomExceptionHandler();
             app.UseRouting();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");
-
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

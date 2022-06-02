@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ifcj21NPmG2T3FWRpglBjQbvDHCK1/5CmhrXECgOmXfYIe/FJhm/HRC4MissgNfk+E2pPRXkv2EIh0JYFCMjKQ==",
+  "dgSpecHash": "35U7kHUJKxQXmUFaM8BoNi+ubVcbCwzz+Yl2sYlsUaea11fp1h5rP4skjhGYjI2MOgr8jszC2ZtnuG9PZaN04g==",
   "success": true,
   "projectFilePath": "E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.1\\fluentvalidation.dependencyinjectionextensions.11.0.1.nupkg.sha512",
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
@@ -29,5 +31,12 @@
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\dmmhlchk_PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Projects\\WebAPI\\Notes.Backend\\Notes.Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
