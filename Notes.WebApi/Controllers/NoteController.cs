@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using System;
 using System.Threading.Tasks;
 using Notes.WebApi.Models;
 using Notes.Application.Notes.Queries.GetNoteList;
@@ -8,7 +9,6 @@ using Notes.Application.Notes.Commands.CreateNote;
 using Notes.Application.Notes.Commands.DeleteNote;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
-using System;
 
 namespace Notes.WebApi.Controllers
 {

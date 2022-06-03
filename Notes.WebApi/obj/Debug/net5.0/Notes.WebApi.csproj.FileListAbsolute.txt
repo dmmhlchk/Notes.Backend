@@ -93,8 +93,6 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\refint\Notes.WebA
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.pdb
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genruntimeconfig.cache
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\ref\Notes.WebApi.dll
-<<<<<<< HEAD
-=======
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -102,4 +100,3 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Identit
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
->>>>>>> before
