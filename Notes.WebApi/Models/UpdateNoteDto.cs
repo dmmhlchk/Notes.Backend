@@ -11,6 +11,7 @@ namespace Notes.WebApi.Models
         public string Title { get; set; }
         public string Details { get; set; }
 
+        //метод преобразующий объект одного типа в выходной объект другого типа 
         public void Mapping(Profile profile)
         {
             profile.CreateMap<UpdateNoteDto, UpdateNoteCommand>()

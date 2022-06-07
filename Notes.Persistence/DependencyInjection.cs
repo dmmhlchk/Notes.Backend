@@ -11,7 +11,7 @@ namespace Notes.Persistence
         // метод AddPersistance будет добавлять использование контекста базы данных
         // и регистрировать его
         // иными словами метод AddPersistance передаёт необходимую зависимость
-        // (контекст базы данных) в классы где этот контекст упаминается 
+        // (контекст базы данных) в классы где этот контекст упоминается 
         public static IServiceCollection AddPersistence(
             this IServiceCollection services, IConfiguration configuration )
         {

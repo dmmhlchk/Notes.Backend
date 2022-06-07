@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
+using System;
+using System.IO;
 using System.Reflection;
 using Notes.Application.Interfaces;
 using Notes.Application.Common.Mappings;
@@ -42,7 +44,8 @@ namespace Notes.WebApi
                    policy.AllowAnyOrigin();
                });
             });
-
+            
+            
             services.AddAuthentication(config =>
             {
                 config.DefaultAuthenticateScheme = 
@@ -51,10 +54,18 @@ namespace Notes.WebApi
                     JwtBearerDefaults.AuthenticationScheme;
 
             }).AddJwtBearer("Bearer", options =>
-            {
+            {   
+                // соединяем проект Notes.Identity с данным проектом
                 options.Authority = "https://localhost:44350/";
                 options.Audience = "NotesWebAPI";
                 options.RequireHttpsMetadata = false;
+            });
+
+            services.AddSwaggerGen(config =>
+            {
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                config.IncludeXmlComments(xmlPath);
             });
 
         }
@@ -67,6 +78,15 @@ namespace Notes.WebApi
                 app.UseDeveloperExceptionPage();
             }
 
+            //обработчик запросов middleware
+            //прежде чем запрос попадёт на сервер он будет должен пройти каждый
+            //middleware(обработчик)
+            app.UseSwagger();
+            app.UseSwaggerUI(config =>
+            {
+                config.RoutePrefix = string.Empty;
+                config.SwaggerEndpoint("swagger/v1/swagger.json", "Notes API");
+            });
             app.UseCustomExceptionHandler();
             app.UseRouting();
             app.UseHttpsRedirection();

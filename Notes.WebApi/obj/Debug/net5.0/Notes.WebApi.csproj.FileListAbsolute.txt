@@ -1,48 +1,3 @@
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\appsettings.Development.json
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\appsettings.json
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.exe
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.deps.json
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.runtimeconfig.json
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.runtimeconfig.dev.json
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.pdb
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\AutoMapper.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.Contracts.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Npgsql.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Application.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Domain.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Persistence.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Application.pdb
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Persistence.pdb
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Domain.pdb
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.csproj.AssemblyReference.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.AssemblyInfoInputs.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.AssemblyInfo.cs
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.csproj.CoreCompileInputs.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Notes.WebApi.styles.css
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\staticwebassets\Notes.WebApi.StaticWebAssets.Manifest.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.RazorTargetAssemblyInfo.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.csproj.CopyComplete
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\refint\Notes.WebApi.dll
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.pdb
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genruntimeconfig.cache
-E:\Visual Studio\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\ref\Notes.WebApi.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\appsettings.Development.json
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\appsettings.json
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.exe
@@ -53,14 +8,12 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.pdb
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\AutoMapper.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-<<<<<<< HEAD
-=======
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\FluentValidation.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
->>>>>>> before
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.Contracts.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
@@ -68,9 +21,19 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensi
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Npgsql.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Application.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.Domain.dll
@@ -83,6 +46,7 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.Gene
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.AssemblyInfoInputs.cache
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.AssemblyInfo.cs
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.csproj.CoreCompileInputs.cache
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cs
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\scopedcss\bundle\Notes.WebApi.styles.css
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\staticwebassets\Notes.WebApi.StaticWebAssets.Manifest.cache
@@ -93,10 +57,5 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\refint\Notes.WebA
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.pdb
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genruntimeconfig.cache
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\ref\Notes.WebApi.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.xml
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.xml

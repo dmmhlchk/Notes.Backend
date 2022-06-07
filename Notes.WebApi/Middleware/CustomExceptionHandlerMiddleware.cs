@@ -15,6 +15,8 @@ namespace Notes.WebApi.Middleware
         public CustomEcxeptionHandlerMiddleware(RequestDelegate next) =>
             _next = next;
 
+        //метод Invoke пытается вызвать RequestDelegate _next
+        //затем перехватывает и обрабатывает исключения
         public async Task Invoke(HttpContext context)
         {
             try
@@ -27,18 +29,21 @@ namespace Notes.WebApi.Middleware
             }
         }
 
+        //данный метод обрабатывает два исключения 
         private Task HandleExceptionAsync(HttpContext context, Exception exception)
         {
-            var code = HttpStatusCode.InternalServerError;
+            var code = HttpStatusCode.InternalServerError; //код ответа
             var result = string.Empty;
 
             switch (exception)
             {
+                //исключение валидации
                 case ValidationException validationException:
                     code = HttpStatusCode.BadRequest;
                     result = JsonSerializer.Serialize(validationException.Errors);
                     break;
 
+                //исключение не найдена сущность
                 case NotFoundException:
                     code = HttpStatusCode.NotFound;
                     break;
