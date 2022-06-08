@@ -59,3 +59,5 @@ E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genr
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\ref\Notes.WebApi.dll
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Notes.WebApi.xml
 E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.xml
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Projects\WebAPI\Notes.Backend\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
